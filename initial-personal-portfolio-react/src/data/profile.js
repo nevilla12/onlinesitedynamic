@@ -103,6 +103,7 @@ export const contact = {
     "I'm actively pursuing roles in manufacturing, supply chain, and automation where I can unite business strategy with technical problem solving to deliver measurable results.",
   email: { label: 'nevilla@purdue.edu', href: 'mailto:nevilla@purdue.edu' },
   phone: { label: '512-626-8056', href: 'tel:15126268056' },
+  formEndpoint: 'https://httpbin.org/post',
   links: [
     { label: 'linkedin.com/in/alecneville', href: 'https://www.linkedin.com/in/alecneville' },
     { label: 'github.com/alecneville', href: 'https://github.com/alecneville' },
